@@ -1,0 +1,3 @@
+set x 23
+size
+quit

@@ -1,0 +1,3 @@
+set key "This is a string value that's more than 100 characters long. The key size for our has table is limited, but the text in a string could be arbitrarily long. While reading this command, the readLine() function should be able to allocate as much space as needed for the string input. Then, when this value is used to create a string Value, the code for parseString() should be able to allocate as much space as it needs for holding a copy of the string. It's a little inconvenient that the string can't contain special characters like a newline, but you can add support for that for a little bit of extra credit."
+get key
+quit

@@ -1,0 +1,3 @@
+set key "This input isn't really used"
+get key
+quit

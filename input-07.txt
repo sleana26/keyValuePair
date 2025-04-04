@@ -1,0 +1,3 @@
+set a-key-with-24-characters 25
+get a-key-with-24-characters
+quit

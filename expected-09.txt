@@ -1,0 +1,4 @@
+cmd> cmd> cmd> "value 1"
+cmd> Invalid command
+cmd> "value 2"
+cmd> 

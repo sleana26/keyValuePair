@@ -1,0 +1,3 @@
+set x "string value"
+remove x
+size

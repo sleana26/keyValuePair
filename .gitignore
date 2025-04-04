@@ -1,0 +1,6 @@
+driver
+*.gcov
+*.gcda
+*.gcno
+output.txt
+stderr.txt

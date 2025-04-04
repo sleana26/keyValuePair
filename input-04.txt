@@ -1,0 +1,10 @@
+set 1 "eins"
+set two 2
+set 99 "neunundneunzig"
+get 99
+set window "Fenster"
+set coffee "Kaffee"
+set ten 10
+size
+get coffee
+quit

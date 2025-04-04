@@ -1,0 +1,7 @@
+set x "value 1"
+set y "value 2"
+set z "value 3"
+get x
+get y extra text on the input
+get z
+quit

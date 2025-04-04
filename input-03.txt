@@ -1,0 +1,7 @@
+set x "abc"
+set y "xyz"
+set z "123"
+get x
+get y
+get z
+quit

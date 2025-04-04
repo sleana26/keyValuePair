@@ -1,0 +1,6 @@
+set x "value 1"
+set y "value 2"
+get x
+get z
+get y
+quit
